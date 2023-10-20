@@ -175,4 +175,7 @@ h2 {
   .container {
     justify-content: center;
   }
+.cartext{
+  font-size: 10px;
+}
 }
